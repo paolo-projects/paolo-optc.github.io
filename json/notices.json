@@ -1,4 +1,4 @@
 [
-	{	key: 0,
-		content: "Last update new features:<br><ul><li>Fixed notice board</li></ul>"	}
+	{	key: 1,
+		content: "Last update new features:<br><ul><li>Fixed italian DB crash</li><li>New links added in the options screen to send a message or report a bug</li><li>Fixed notice board</li></ul>"	}
 ]
