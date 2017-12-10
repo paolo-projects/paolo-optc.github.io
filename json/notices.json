@@ -1,4 +1,6 @@
 [
+	{	key: 3,
+		content: "<b>Important notice</b><br>Last DB update makes the app crash. By default, on the next app launch db updates are being disabled so that the app can still be used.<br><b>A fix is currently being ultimated. Make sure to update to the new version a soon as it's out and make sure to REBUILD THE DATABASE (cloud icon at the bottom of the right panel) and turn back on DB updates in your settings after you install the update.<b>" }
 	{	key: 2,
 		content: "Last update new features:<br><ul><li>Fixed DB update crash</li><li>Fixed some limit breaks</li><li>Added crash handling</li></ul>"	}
 ]
