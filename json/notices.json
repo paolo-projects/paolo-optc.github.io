@@ -1,6 +1,6 @@
 [
 	{	key: 4,
-		content: "<b>Important notice</b>An update has been released and the DB issue is now fixed<br><b>Please make sure to update to version 4.9 to solve the DB issue. As sood as you update the app, make sure to REBUILD the database (through the cloud icon at the bottom of the right navigation bar) and ENABLE DB updates in your settings</b>" },
+		content: "<b>Important notice</b><br>An update has been released and the DB issue is now fixed<br><b>Please make sure to update to version 4.9 to solve the DB issue. As soon as you update the app, make sure to REBUILD the database (through the cloud icon at the bottom of the right navigation bar) and ENABLE DB updates in your settings</b>" },
 	{	key: 2,
 		content: "Last update new features:<br><ul><li>Fixed DB update crash</li><li>Fixed some limit breaks</li><li>Added crash handling</li></ul>"	}
 ]
