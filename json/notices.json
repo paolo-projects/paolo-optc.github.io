@@ -1,4 +1,7 @@
 [
+	{
+		key: 6,
+		content: "The new cloud icon in the right drawbar can be used to synchronize the teams you have cached on your device with nakama.network. Sync happens automatically every day so you don't need to do it unless you know for sure that new teams are available and you want to get them asap." },
 	{	key: 5,
 		content: "Please REBUILD the database (through the cloud icon at the bottom of the right navigation bar) to apply the fix to TM characters' captain abilities." },
 	{	key: 4,
